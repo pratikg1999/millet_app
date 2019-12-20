@@ -21,3 +21,5 @@ This is the front-end part of the two-part-system of Millet disease detection. T
 * [Millet disease detection project report](https://github.com/pratikg1999/millet_app/blob/master/Millet_Disease_Detection_Minor_Report%20(2).pdf "Millet disease detection report")
 * [Millet disease detection presentation](https://github.com/pratikg1999/millet_app/blob/master/Minor%20Project.pptx "Millet disease detection ppt")
 
+
+#### You may use a prebuilt apk for the app [here](https://drive.google.com/file/d/1FufxI_tqZJBuoWorKm7xfknrUf1AImnw/view?usp=sharing).
